@@ -23,26 +23,6 @@ GreenClassify is a Flask-based Machine Learning web application that classifies 
 
 ---
 
-## 📸 Output Screenshots
-
-### 🏠 Home Page
-![Home](screenshots/home.png)
-
-### 📤 Prediction Page
-![Prediction](screenshots/prediction.png)
-
-### ✅ Result Page
-![Result](screenshots/result.png)
-
----
-
-## ▶️ How to Run Project
-
-```bash
-pip install -r requirements.txt
-python app.py
-
-
 # GreenClassify — Vegetable Image Classification
 
 **GreenClassify** is a deep learning project that classifies vegetable images into 15 categories using a Convolutional Neural Network (CNN) and serves predictions through a Flask web application.
