@@ -38,3 +38,20 @@ GreenClassify is a Flask-based Machine Learning web application that classifies 
 ---
 
 
+## Project Output Screenshots
+
+### Home Page
+![Home](Scrennshort(web)\home.png)
+
+### Prediction Page
+![Prediction](Scrennshort(web)\output.png)
+
+### Result Page
+![Result](Scrennshort(web)\prediction.png)
+
+### Terminal
+![Terminal](Scrennshort(web)\Terminal.png)
+
+## 🎥 Project Demo Video
+
+Click here to watch demo video - https://drive.google.com/file/d/1G59MNduYwIZ-rHiCo-LvTeZ_ikZ9f7us/view
